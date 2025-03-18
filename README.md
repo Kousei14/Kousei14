@@ -1,31 +1,29 @@
-# 👋 Welcome to My GitHub Profile!
+<h1 align="left">👋 Welcome to My GitHub Profile!</h1>
 
-## 🛠️ About Me
-Hello! I'm a passionate developer with experience in various technologies, including backend development, cloud computing, and data analytics. I love solving complex problems and optimizing systems for efficiency.
+###
 
-## 🚀 Tech Stack
+<p align="left">Hello! I'm a passionate developer with experience in various areas including data science, cloud computing, and software development. I love solving complex problems and optimizing systems for efficiency.</p>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+###
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h2 align="left">I code with</h2>
 
-### Cloud & Data
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+###
 
-### Automation & Scripting
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
 
-## 📈 What I Do
-- Build **scalable applications** and **data-driven solutions**.
-- Work with **Azure and Databricks** for cloud-based analytics.
-- Automate workflows with **VBA and SQL**.
-- Explore **backend development** and **system optimization**.
-
-## 📫 Connect With Me
-Feel free to check out my projects and reach out for collaboration! 🚀
+###
